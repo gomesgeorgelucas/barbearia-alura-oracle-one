@@ -2,5 +2,6 @@
 ##
 
 #### To-Do:
--[ ] Resolver responsividade das páginas de contato e produto.
--[ ] Corrigir layout da página sobre (foto da <ul>)
+
+- [ ] Resolver responsividade das páginas de contato e produto.
+- [ ] Corrigir layout da página sobre (foto da tag UL)
